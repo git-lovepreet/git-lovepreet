@@ -18,7 +18,7 @@ I’m a Software Engineer passionate about building scalable, user-centric mobil
 
 ---
 
-## 🌟 **Projects**  
+## 🌟 **Major Projects**  
 ### 1. **[Study Buddy App](https://github.com/git-lovepreet/study-buddy)**  
    - Skill-based networking app connecting students globally.  
    - **Tech Stack**: Flutter, Firebase, Flask.  
@@ -30,11 +30,6 @@ I’m a Software Engineer passionate about building scalable, user-centric mobil
 ### 3. **[Chatting App](https://github.com/git-lovepreet/chat-app)**  
    - Secure, real-time messaging app with Firebase Authentication.  
    - **Tech Stack**: Flutter, Firebase.  
-
----
-
-## 📈 **GitHub Stats**  
-![Lovepreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-lovepreet&show_icons=true&theme=radical)  
 
 ---
 
