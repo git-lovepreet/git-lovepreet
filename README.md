@@ -1,47 +1,43 @@
-Hi, I'm Lovepreet Singh 👋
+# **Hi, I'm Lovepreet Singh 👋**  
+**Software Engineer | Flutter & Kotlin Developer | Problem Solver**  
 
-🌟 Aspiring Software Engineer | Flutter & Kotlin Developer | Problem Solver
-🌟 Building Scalable, High-Performance Apps | 150+ LeetCode Problems Solved
+---
 
-🚀 About Me
+## 🚀 **About Me**  
+I’m a Software Engineer passionate about building scalable, user-centric mobile apps. Proficient in **Flutter**, **Kotlin**, and **Firebase**, with experience in solving **150+ LeetCode problems** to strengthen my problem-solving and algorithmic skills.  
 
-I’m a passionate Software Engineer with a strong foundation in computer science and hands-on experience in mobile app development. I specialize in building high-performance, user-centric applications using Flutter, Kotlin, and Firebase. With a knack for problem-solving, I’ve tackled over 150 problems on LeetCode, enhancing my data structures and algorithms expertise.
+---
 
-🔧 Skills & Tools
+## 🔧 **Skills**  
+- **Languages**: Dart, Kotlin, Java, SQL  
+- **Frameworks & Tools**: Flutter, Firebase, Android Studio  
+- **Core Expertise**:  
+  - Mobile App Development (Cross-Platform & Native)  
+  - Firebase Integration & Real-Time Database  
+  - UI/UX Design, API Integration  
 
-Languages: Dart, Kotlin, Java, XML, SQL
-Frameworks & Tools: Flutter, Firebase, Android Studio, GitHub
-Core Expertise:
-Mobile App Development (Cross-Platform and Native)
-UI/UX Design
-Firebase Authentication and Realtime Database
-API Integration
+---
 
+## 🌟 **Projects**  
+### 1. **[Study Buddy App](https://github.com/git-lovepreet/study-buddy)**  
+   - Skill-based networking app connecting students globally.  
+   - **Tech Stack**: Flutter, Firebase, Flask.  
 
-🌟 Projects
+### 2. **[Doctor Appointment App](https://github.com/git-lovepreet/doctor-appointment-app)**  
+   - Browse doctor profiles and book appointments easily.  
+   - **Tech Stack**: Kotlin, XML, Firebase.  
 
-1. Study Buddy App
-A skill-based networking app connecting students globally based on shared interests.
-Tech Stack: Flutter, Firebase, Python (Flask).
-Features: Real-time chat, interest-based matching, global scalability.
-2. Doctor Appointment App
-A user-friendly app to browse doctor profiles, check availability, and book appointments.
-Tech Stack: Kotlin, XML, Firebase.
-Features: Firebase-backed real-time database, intuitive UI.
-3. Chatting App
-A secure, real-time messaging app with Firebase Authentication.
-Tech Stack: Flutter, Firebase.
-Features: Real-time messaging, secure login, responsive UI.
+### 3. **[Chatting App](https://github.com/git-lovepreet/chat-app)**  
+   - Secure, real-time messaging app with Firebase Authentication.  
+   - **Tech Stack**: Flutter, Firebase.  
 
+---
 
-🌟 Achievements
+## 📈 **GitHub Stats**  
+![Lovepreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-lovepreet&show_icons=true&theme=radical)  
 
-Solved 150+ LeetCode problems, demonstrating a strong grasp of algorithms and problem-solving.
-Completed Android Developer Training at Bhoomi Technologies Pvt. Ltd..
-Hosted engaging podcasts with industry professionals, enhancing communication and collaboration skills.
+---
 
-
-📫 Let's Connect
-Email: lovepreetchauhan2002@gmail.com
-LinkedIn: linkedin.com/in/lovepreet-chauhan
-
+## 📫 **Let’s Connect**  
+- **Email**: [lovepreetchauhan2002@gmail.com](mailto:lovepreetchauhan2002@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/lovepreet-chauhan](https://linkedin.com/in/lovepreet-chauhan)  
