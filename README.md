@@ -1,5 +1,5 @@
 # **Hi, I'm Lovepreet Singh 👋**  
-**Flutter & Kotlin Developer | Problem Solver**  
+**Flutter & Kotlin Developer | 150+ LeetCode Problems Solved**  
 
 ---
 
