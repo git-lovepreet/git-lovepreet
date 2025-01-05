@@ -1,10 +1,10 @@
 # **Hi, I'm Lovepreet Singh 👋**  
-**Software Engineer | Flutter & Kotlin Developer | Problem Solver**  
+**Flutter & Kotlin Developer | Problem Solver**  
 
 ---
 
 ## 🚀 **About Me**  
-I’m a Software Engineer passionate about building scalable, user-centric mobile apps. Proficient in **Flutter**, **Kotlin**, and **Firebase**, with experience in solving **150+ LeetCode problems** to strengthen my problem-solving and algorithmic skills.  
+Aspiring Software Engineer passionate about building scalable, user-centric mobile apps. Proficient in **Flutter**, **Kotlin**, and **Firebase**, with experience in solving **150+ LeetCode problems** to strengthen my problem-solving and algorithmic skills.  
 
 ---
 
