@@ -107,7 +107,7 @@ Deenbandhu Chhotu Ram University of Science and Technology, Murthal
 ## 🤝 Let's Connect
 
 - 📧 Email: [lovepreetchauhan2002@gmail.com](mailto:lovepreetchauhan2002@gmail.com)
-- 💼 LinkedIn: [lovepreet-singh-chauhan](https://linkedin.com/in/lovepreet-chauhan)
+- 💼 LinkedIn: [lovepreet-singh-chauhan](https://linkedin.com/in/lovepreet-singh-chauhan)
 - 💻 GitHub: [git-lovepreet](https://github.com/git-lovepreet)
 
 ---
